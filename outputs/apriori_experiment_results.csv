@@ -1,0 +1,5 @@
+experiment,sample_baskets,min_support,min_confidence,frequent_itemsets,association_rules,runtime_seconds,average_confidence,average_lift,maximum_lift
+Experiment_A,100000,0.01,0.3,1445,2715,0.3482,0.4895,1.4973,3.589
+Experiment_B,100000,0.005,0.3,1977,3322,0.3776,0.4896,1.5376,4.2843
+Experiment_C,100000,0.02,0.3,848,1750,0.3403,0.4897,1.4342,2.8715
+Experiment_D,100000,0.01,0.4,1445,1984,0.3273,0.5403,1.4609,3.5133

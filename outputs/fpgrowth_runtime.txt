@@ -1,0 +1,8 @@
+Algorithm: FP-Growth
+Baskets: 100000
+Minimum support: 0.01
+Minimum confidence: 0.3
+Maximum itemset length: 3
+Frequent itemsets: 1445
+Association rules: 2715
+Runtime seconds: 2.5544

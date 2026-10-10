@@ -1,0 +1,5 @@
+baskets,apriori_itemsets,apriori_runtime_seconds,fpgrowth_itemsets,fpgrowth_runtime_seconds,apriori_to_fpgrowth_runtime_ratio
+50000,1488,0.1695,1488,1.3221,7.8
+100000,1445,0.3359,1445,1.9893,5.92
+250000,1463,0.9105,1463,4.8098,5.28
+500000,1465,2.1956,1465,7.86,3.58

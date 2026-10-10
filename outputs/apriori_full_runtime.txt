@@ -1,0 +1,10 @@
+Algorithm: Apriori
+Number of baskets: 2636756
+Number of product categories: 46
+Minimum support: 0.01
+Minimum confidence: 0.3
+Minimum lift: 1.0
+Maximum itemset length: 3
+Frequent itemsets: 1469
+Association rules: 2772
+Runtime seconds: 12.76
