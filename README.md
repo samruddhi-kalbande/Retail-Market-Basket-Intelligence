@@ -2,6 +2,8 @@
 
 Retail Market Basket Intelligence analyzes shopping baskets to find products that occur together and turn those patterns into cross-selling recommendations. It compares the Apriori and FP-Growth frequent-pattern mining algorithms and provides an interactive Streamlit dashboard for exploring their results.
 
+**Live dashboard:** [Open the app](https://retail-market-basket-intelligence-q5rhkcpagibcfdfafab6rx.streamlit.app/)
+
 ## Dashboard
 
 The dashboard includes:
