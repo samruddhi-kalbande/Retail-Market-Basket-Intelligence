@@ -4,6 +4,20 @@ Retail Market Basket Intelligence analyzes shopping baskets to find products tha
 
 **Live dashboard:** [Open the app](https://retail-market-basket-intelligence-q5rhkcpagibcfdfafab6rx.streamlit.app/)
 
+## Screenshots
+
+| Dashboard overview | Frequent itemsets |
+|---|---|
+| ![Dashboard overview](screenshots/overview.png) | ![Frequent itemsets](screenshots/frequent-itemsets.png) |
+
+| Association rules | Product recommendations |
+|---|---|
+| ![Association rules](screenshots/association-rules.png) | ![Product recommendations](screenshots/product-recommendations.png) |
+
+| Algorithm comparison | Business insights |
+|---|---|
+| ![Algorithm comparison](screenshots/algorithm-comparison.png) | ![Business insights](screenshots/business-insights.png) |
+
 ## Dashboard
 
 The dashboard includes:
